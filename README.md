@@ -1,4 +1,13 @@
-# CodeVulnHunt - Contact & Contributions
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/d65f997a-36a6-4736-b12b-50f8f056cf10" alt="Project Icon" width="50" style="vertical-align: middle;" />
+  <strong>CodeVulnHunt - Contact & Contributions</strong>
+</h1>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/mi_thun" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="170">
+  </a>
+</p>
 
 Welcome to the **CodeVulnHunt** GitHub repository! This repository is meant to help users reach out to the **CodeVulnHunt** team, report issues with the platform, or submit new challenges that we can feature on the website.
 
