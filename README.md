@@ -15,7 +15,7 @@ Welcome to the **CodeVulnHunt** GitHub repository! This repository is meant to h
 If you have any questions, feedback, or need assistance, feel free to contact us by opening a new issue. Here’s how you can get in touch:
 
 1. **Open a New Issue:**
-   - Navigate to the [Issues tab](https://github.com/mith36/CodeVulNut-official/issues).
+   - Navigate to the [Issues tab](https://github.com/mith36/CodeVulnHunt-official/issues).
    - Click on **New Issue**.
    - In the title, briefly describe your inquiry or feedback.
    - In the description, provide as much detail as possible to help us understand your request or issue.
@@ -72,7 +72,7 @@ Please include the following information in your submission:
 
 🛑 Please **submit one challenge at a time**. If you'd like to submit more, just fill out the form separately for each one.
 
-If you have questions or want to report an issue, please [open an issue on GitHub](https://github.com/mith36/CodeVulNut-official/issues).
+If you have questions or want to report an issue, please [open an issue on GitHub](https://github.com/mith36/CodeVulnHunt-official/issues).
 
 ---
 
@@ -81,7 +81,7 @@ Thanks for contributing and helping others learn secure coding! 💻🔐
 ### 🐞 **Report an Issue**
 If you encounter any issues while using the platform, please follow these steps:
 
-1. **Open a New Issue** in the [Issues tab](https://github.com/mith36/CodeVulNut-official/issues).
+1. **Open a New Issue** in the [Issues tab](https://github.com/mith36/CodeVulnHunt-official/issues).
 2. Provide the following details:
    - **Steps to Reproduce**: Describe how to replicate the issue.
    - **Error Messages**: Include any error messages, screenshots, or logs that could help us identify the problem.
