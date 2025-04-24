@@ -78,6 +78,13 @@ If you have questions or want to report an issue, please [open an issue on GitHu
 
 Thanks for contributing and helping others learn secure coding! 💻🔐
 
+### **🛠️ Looking for Collaborators - CodeVulnHunt Project 🛠️**
+I'm aware that there are several vulnerabilities on the CodeVulnHunt website. While I'm not a developer, I've done my best to address some of the issues. That said, a few high-severity vulnerabilities still remain.
+If you're skilled in security or development and are interested in helping out, you're more than welcome to contribute. Please create a request here on GitHub, and if I believe you're capable and have the right skill set, I'll gladly add you to the CodeVulnHunt project.
+Let's work together to make it better!
+
+
+
 ### 🐞 **Report an Issue**
 If you encounter any issues while using the platform, please follow these steps:
 
