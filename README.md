@@ -38,13 +38,16 @@ Please include the following information in your submission:
 - **Description**: A brief overview of the vulnerable scenario (avoid revealing too much to maintain challenge integrity).
 - **Solution**: Explain how to identify and fix the vulnerability (this will be reviewed and hidden until completion).
 - **Vulnerability Details**:
+  - **File name** (code file name)
   - **Category** (e.g., SQL Injection, XSS, Insecure Deserialization, etc.).
   - **Line Number(s)** where each vulnerability exists.
+  - **Code on line**  Provide the code snippet from the specified line number  
   - If there are multiple vulnerabilities:
     - Specify **each line number** and its corresponding **category**.
     - If vulnerabilities span **multiple files**, include:
       - **File name**
       - **Line number**
+      - **Code on line**  Provide the code snippet from the specified line number 
       - **Vulnerability category**
 - **Code Submission**:
   - If the challenge consists of multiple files:
