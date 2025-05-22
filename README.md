@@ -25,8 +25,7 @@ We’ll get back to you as soon as possible.
 ### 💡 **Submit a New Challenge**
 Want to contribute by submitting a new security challenge to CodeVulnHunt? We’d love to feature it! To ensure consistency and clarity, please fill out the form below:
 
-👉 **[Submit a New Challenge](https://your-google-form-link)**
-
+👉 **[Submit a New Challenge](https://forms.gle/CHwg169hqSyS71oE6)** 
 ---
 
 #### 📌 Submission Guidelines (One Challenge per Submission)
